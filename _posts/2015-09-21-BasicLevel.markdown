@@ -5,7 +5,7 @@ date:   2015-09-21 22:00:00
 categories: BasicLevel
 ---
 
-The topic to cover are:
+The topics to cover are:
 
 1. Check status of your local repository.
 2. How to view the history or log of your repository.

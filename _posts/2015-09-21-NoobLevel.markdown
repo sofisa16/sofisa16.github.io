@@ -5,7 +5,7 @@ date:   2015-09-21 23:00:00
 categories: NoobLevel
 ---
 
-The topic to cover are:
+The topics to cover are:
 
 1. Create [GitHub] account.
 2. Create a new [GitHub] repository from the [GitHub] web interface.

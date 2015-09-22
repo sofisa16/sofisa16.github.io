@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! My name is Sofía Isadora Padilla Muñoz. Welcome to my GitHub Report as part of the Semana I (I Week) from Tecnológico de Monterrey, Campus Guadalajara.
 
-My professor is Ph.D. Ken Bauer.
+My professor is Ken Bauer.
 
 I hope that you found it useful.
 

@@ -2,7 +2,7 @@
 title: Mastering GitHub Report
 email: sofisa16@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Report of the course "Mastering GitHub", taught by Ph.D. Ken Bauer
+    Report of the course "Mastering GitHub", taught by Ken Bauer
     during the Semana I (I Week) at Tecnológico de Monterrey, Campus Guadalajara.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
